@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+img {
+    background-color: black;
+}
+h1 {
+color: aqua;
+}
+#Section1{
+    background-color: black;
+}
+li {
+    color: white;
+} 
+h2 {
+    color: aqua;
+}
+h3 {
+    color: aqua;
+}
+h4 {
+    color: aqua;
+}
+.form-group {
+    color: white;
+}
+button {
+    color: white;
+}
